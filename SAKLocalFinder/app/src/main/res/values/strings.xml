@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SAK Local Bracket Finder</string>
+    <string-array name="tournaments_array">
+        <item>Sink or Swim</item>
+        <item>The Smash Lab</item>
+    </string-array>
+</resources>
